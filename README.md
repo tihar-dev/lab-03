@@ -2,12 +2,12 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Harnoor Tihar`
+- **CCID:** `Tihar`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+List any resources used here, or simply put `N/A` if not applicable. lab 2 demo code
 
 ## Verbal Collaboration
 
@@ -15,3 +15,4 @@ List any resources used here, or simply put `N/A` if not applicable.
 | ------------ | --------- |
 | `student`    | `student` |
 | `<Add more>` | `<CCID>`  |
+N/A

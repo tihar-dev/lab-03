@@ -8,7 +8,7 @@
 ## References and Resources
 
 List any resources used here, or simply put `N/A` if not applicable. 
-lab 2 demo code
+    lab 2 demo code
 
 ## Verbal Collaboration
 
